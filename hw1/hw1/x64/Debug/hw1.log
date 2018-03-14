@@ -1,0 +1,10 @@
+﻿已經開始建置於 2017/10/26 下午 06:54:04。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\lab031\Desktop\hw1\hw1\hw1\hw1.vcxproj"。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lab031\Desktop\hw1\hw1\x64\Debug\hw1.exe" /INCREMENTAL /NOLOGO opengl32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\lab031\Desktop\hw1\hw1\x64\Debug\hw1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lab031\Desktop\hw1\hw1\x64\Debug\hw1.lib" /MACHINE:X64 x64\Debug\Main.obj
+     1>LINK : fatal error LNK1104: 無法開啟檔案 'glut32.lib'
+     1>專案 "C:\Users\lab031\Desktop\hw1\hw1\hw1\hw1.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.06
